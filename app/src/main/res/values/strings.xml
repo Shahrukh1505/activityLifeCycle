@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ActivityLifeCycle</string>
+    <string name="guess_the_name">Guess The Name</string>
+    <string name="enter_the_guess">Enter the guess</string>
+</resources>
